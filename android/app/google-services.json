@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489455038753",
+    "project_id": "chopstore-347c2",
+    "storage_bucket": "chopstore-347c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489455038753:android:16f000067597ad6c7a0e60",
+        "android_client_info": {
+          "package_name": "com.apponrents.chopstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489455038753-mrdnotj5197e2o3fcqlnc8rjvio240li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ9FUDCt09_3aAigHkO7XJjjs-xnRCw3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489455038753-mrdnotj5197e2o3fcqlnc8rjvio240li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
